@@ -31,9 +31,10 @@ li {
 .barcontainer {
   display: flex;
   justify-content: center;
+  background-color: gray;
 }
 p {
-  font-size: 12px
+  font-size: 10px
 }
 .textcontainer {
   display: flex;
@@ -42,7 +43,7 @@ p {
 }
 .textitem {
   display: flex;
-  width: 500px;
+  width: 600px;
   padding-left: 20px;
   padding-right: 20px;
 }
