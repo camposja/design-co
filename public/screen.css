@@ -6,41 +6,49 @@ body {
   margin: 0;
   font-family: sans-serif;
 }
+
 ul {
   margin-top: 0;
   list-style: none;
 }
+
 li {
   display: inline-block;
 }
+
 .container {
   border: 1px solid green;
   width: 100%;
   justify-content: center;
   display: flex;
 }
+
 .item {
   border: 1px solid blue;
   width: 25%;
-  }
+}
 
 .imagecontainer {
   display: flex;
   justify-content: space-around;
 }
+
 .barcontainer {
   display: flex;
   justify-content: center;
   background-color: gray;
 }
+
 p {
-  font-size: 10px
+  font-size: 10px;
 }
+
 .textcontainer {
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
 .textitem {
   display: flex;
   width: 600px;
