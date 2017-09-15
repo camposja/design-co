@@ -36,7 +36,7 @@ li {
 .barcontainer {
   display: flex;
   justify-content: center;
-  background-color: #DDDDDD;
+  background-color: #ddd;
 }
 
 p {
